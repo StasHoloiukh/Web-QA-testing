@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc522758-23a4-4552-ad0c-83fcbbe6f5ff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/QA_Testing_Proj/Pages/LoginPage.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA_Testing_Proj/QA_Testing_Proj.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/QA_Testing_Proj/QA_Testing_Proj.csproj" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/QA_Testing_Proj/Pages/LoginPage.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.248273123859259" />
+      <entry key="MS500" value="1.756808400029648" />
+      <entry key="S2" value="1.945752530246572" />
+      <entry key="S5" value="2.2756701023565014" />
+      <entry key="S10" value="2.987274707792735" />
+      <entry key="S30" value="4.452147727960744" />
+      <entry key="S60" value="5.121941860186858" />
+      <entry key="M2" value="5.53095615796946" />
+      <entry key="M5" value="5.804594676262134" />
+      <entry key="M10" value="5.90094718648185" />
+      <entry key="M15" value="5.933660759099213" />
+      <entry key="M30" value="5.9666773509337165" />
+      <entry key="H1" value="5.983300227191951" />
+      <entry key="H2" value="5.991640477527546" />
+      <entry key="H4" value="5.995817826739827" />
+      <entry key="D1" value="5.999302635864448" />
+      <entry key="W1" value="5.999900368338309" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.1842171462365803" />
+      <entry key="MS500" value="1.7395104686564051" />
+      <entry key="S2" value="1.9410205960017535" />
+      <entry key="S5" value="2.2733709134151763" />
+      <entry key="S10" value="2.985367798013417" />
+      <entry key="S30" value="4.450801776370943" />
+      <entry key="S60" value="5.121085395717276" />
+      <entry key="M2" value="5.5304698326454576" />
+      <entry key="M5" value="5.804384308012251" />
+      <entry key="M10" value="5.900839188590773" />
+      <entry key="M15" value="5.933588121709518" />
+      <entry key="M30" value="5.966640709400584" />
+      <entry key="H1" value="5.9832818250648385" />
+      <entry key="H2" value="5.991631256041961" />
+      <entry key="H4" value="5.995813210881257" />
+      <entry key="D1" value="5.999301865843288" />
+      <entry key="W1" value="5.999900258317854" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3KdiUoiMwszH9sbTJm8gIbjAldj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "rider.unittesting.toolwindow.stripe.button.shown": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc522758-23a4-4552-ad0c-83fcbbe6f5ff" name="Changes" comment="" />
+      <created>1791893864145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791893864145</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
